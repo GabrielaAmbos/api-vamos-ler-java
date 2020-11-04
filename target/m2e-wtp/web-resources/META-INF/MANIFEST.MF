@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: vamos
+Implementation-Version: 0.1.0
+Built-By: Gabri
+Implementation-Vendor-Id: org.springframework
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/vamos/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
